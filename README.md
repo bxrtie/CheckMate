@@ -1,4 +1,4 @@
-# Minimalist Todo App
+# CheckMate - Minimalist Todo App (fully created by AI)
 
 A modern, feature-rich todo application built with React and Firebase, featuring a clean and minimalist design.
 
